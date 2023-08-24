@@ -3,12 +3,9 @@ DESARROLLO:
 
 PRODUCCIÓN (PRIMERA VEZ QUE DESPLIEGO):
 1- Hacer un clon del repo remoto en el VPS mediante SSH (git clone SSH_URL)
-2- Mandar zipeados los node_modules con comando scp:
-    - scp /home/juan/Programación/workspace/Portfolio_Website/node_modules.zip juan@191.101.71.182:/home/juan/Portfolio_Website
-3- Unzipear dicha carpeta y eliminar el archivo .zip (unzip node_modules.zip y rm node_modules.zip)
-4- Otorgar permisos para vite:
+2- Otorgar permisos para vite:
     - Posicionado en la carpeta del proyecto en terminal tirar chmod +x node_modules/.bin/vite
-5- Levantar el compose con docker compose -f docker-compose-prod.yml up -d
+3- Levantar el compose con docker compose -f docker-compose-prod.yml up -d
 
 PRODUCCIÓN (CUANDO CAMBIO ALGO EN DESARROLLO):
 1- Pushear los cambios al repo remoto en Github

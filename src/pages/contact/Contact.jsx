@@ -68,15 +68,15 @@ const Contact = () => {
                     </div>
 
                     <div className='contact__socials'>
-                        <a href='https://facebook.com' target='_blank' rel='noreferrer' className='contact__social-link'>
+                        <a href='https://www.facebook.com/juan.c.bo.7' target='_blank' rel='noreferrer' className='contact__social-link'>
                             <FaFacebookF />
                         </a>
 
-                        <a href='https://twitter.com' target='_blank' rel='noreferrer' className='contact__social-link'>
+                        <a href='https://twitter.com/JuanJKS_OK' target='_blank' rel='noreferrer' className='contact__social-link'>
                             <FaTwitter />
                         </a>
 
-                        <a href='https://linkedin.com' target='_blank' rel='noreferrer' className='contact__social-link'>
+                        <a href='https://www.linkedin.com/in/juan-cruz-bo' target='_blank' rel='noreferrer' className='contact__social-link'>
                             <FaLinkedinIn />
                         </a>
 
