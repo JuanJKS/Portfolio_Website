@@ -152,7 +152,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '2016 - PRESENTE',
     title: 'Profesor Particular <span> Independiente </span>',
-    desc: 'Llevo mas de 8 años dando clases de matemática y física de forma independiente. En todos estos años he intentado e intento transmitir de la mejor manera posible todo lo que sé al respecto de las materias mencionadas, adaptándome a las necesidades y tiempos de cada persona. Me encanta enseñar y también disfruto mucho de poder aportar mi grano de arena para el cumplimiento de objetivos de aquellas personas que me contactan en busca de ayuda.',
+    desc: 'Llevo aproximadamente 8 años dando clases de matemática y física de forma independiente. En todos estos años he intentado e intento transmitir de la mejor manera posible todo lo que sé al respecto de las materias mencionadas, adaptándome a las necesidades y tiempos de cada persona. Me encanta enseñar y también disfruto mucho de poder aportar mi grano de arena para el cumplimiento de objetivos de aquellas personas que me contactan en busca de ayuda.',
   },
 
   {
@@ -303,7 +303,7 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: 'Ver : ',
-        desc: '<a href="https://www.youtube.com/watch?v=N5wjZIdInFQ&ab_channel=PROFEJUAN" target="_blank" rel="noreferrer">Proyecto Administrador</a>',
+        desc: '<a href="https://adminprofejuan.tech" target="_blank" rel="noreferrer">Proyecto Administrador</a>',
       },
     ],
   },

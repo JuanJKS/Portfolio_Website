@@ -76,7 +76,7 @@ const Contact = () => {
                             <FaTwitter />
                         </a>
 
-                        <a href='https://www.linkedin.com/in/juan-cruz-bo' target='_blank' rel='noreferrer' className='contact__social-link'>
+                        <a href='https://www.linkedin.com/in/juan-bo/' target='_blank' rel='noreferrer' className='contact__social-link'>
                             <FaLinkedinIn />
                         </a>
 
