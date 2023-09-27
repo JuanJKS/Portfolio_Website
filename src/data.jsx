@@ -179,7 +179,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2022',
     title: 'Diplomatura web full stack con React JS <span> UTN </span>',
-    desc: 'Di mis primeros pasos en el mundo de la programación realizando la Diplomatura mencionada en el Centro de e-Learning de la UTN; la misma culminó con la entrega de un proyecto final el cual forma parte de los proyectos de mi portfolio como programador. Posterior a la culminación de la Diplomatura continué y continúo estudiando de forma autodidacta para mejorar y ampliar mis habilidades.<br><br>',
+    desc: 'Di mis primeros pasos en el mundo de la programación realizando la Diplomatura mencionada en el Centro de e-Learning de la UTN; la misma culminó con la entrega de un proyecto final el cual forma parte de los proyectos de mi portfolio como programador. Posterior a la culminación de la Diplomatura continué y continúo estudiando de forma autodidacta para mejorar y ampliar mis habilidades.<br><br><br>',
   },
 
   {
@@ -188,7 +188,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2006 - 2010',
     title: 'Ingeniería Industrial <span> UTN </span>',
-    desc: 'Cursé la carrera de Ingeniería Industrial en la Universidad Tecnológica Nacional regional Buenos Aires (UTN); llegué a realizar hasta el tercer año de la carrera, con muy buen promedio, pero decidí discontinuar dichos estudios en aquel momento. No he sentido hasta el momento deseos de retomar la carrera, pero lo considero algo pendiente.<br><br>',
+    desc: 'Cursé la carrera de Ingeniería Industrial en la Universidad Tecnológica Nacional regional Buenos Aires (UTN); llegué a realizar hasta el tercer año de la carrera, con muy buen promedio, pero decidí discontinuar dichos estudios en aquel momento. No he sentido hasta el momento deseos de retomar la carrera, pero lo considero algo pendiente.<br><br><br>',
   },
 
   {
