@@ -11,7 +11,7 @@ import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
 
 import Work1 from './assets/project-1.jpeg';
 import Work2 from './assets/project-2.jpg';
-import Work3 from './assets/project-3.jpeg';
+import Work3 from './assets/project-3.jpg';
 import Work4 from './assets/project-4.jpeg';
 import Work5 from './assets/project-5.jpg';
 import Work6 from './assets/project-6.jpg';
@@ -150,7 +150,7 @@ export const resume = [
     id: 1,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2016 - PRESENTE',
+    year: '2020 - PRESENTE',
     title: 'Profesor Particular <span> Independiente </span>',
     desc: 'Llevo aproximadamente 8 años dando clases de matemática y física de forma independiente. En todos estos años he intentado e intento transmitir de la mejor manera posible todo lo que sé al respecto de las materias mencionadas, adaptándome a las necesidades y tiempos de cada persona. Me encanta enseñar y también disfruto mucho de poder aportar mi grano de arena para el cumplimiento de objetivos de aquellas personas que me contactan en busca de ayuda.',
   },
@@ -159,18 +159,18 @@ export const resume = [
     id: 2,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2014 - 2016',
+    year: '2016 - 2020',
     title: 'Compras <span> TANDANOR </span>',
-    desc: 'Tuve un paso de 2 años por la empresa Talleres Navales Dársena Norte (TANDANOR), en la cual desarrollé tareas como el análisis de las compras de todo el astillero según el proceso establecido; la emisión de órdenes de compra; el seguimiento y la logística de las entregas; la supervisión de todo el equipo del sector Compras, en conjunto con la revisión y aprobación de las órdenes de compra emitidas.',
+    desc: 'Tuve un paso de 4 años por la empresa Talleres Navales Dársena Norte (TANDANOR), en la cual desarrollé tareas como el análisis de las compras de todo el astillero según el proceso establecido; la emisión de órdenes de compra; el seguimiento y la logística de las entregas; la supervisión de todo el equipo del sector Compras, en conjunto con la revisión y aprobación de las órdenes de compra emitidas.',
   },
 
   {
     id: 3,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2012 - 2014',
+    year: '2012 - 2016',
     title: 'Logística <span> Aguas Danone </span>',
-    desc: 'Me desempeñé como pasante y luego de manera efectiva, en un período total de 2 años, en la empresa Aguas Danone de Argentina. Dentro de mis tareas mas importantes se destacan la gestión de recupero de chapadur y pallet de los distintos canales del mercado; el seguimiento de la deuda, por cliente y por canal, de los pallet; la colaboración en el planeamiento del abastecimiento de pallet y chapadur a las distintas plantas de la empresa.',
+    desc: 'Me desempeñé como pasante y luego de manera efectiva, en un período total de 4 años, en la empresa Aguas Danone de Argentina. Dentro de mis tareas mas importantes se destacan la gestión de recupero de chapadur y pallet de los distintos canales del mercado; el seguimiento de la deuda, por cliente y por canal, de los pallet; la colaboración en el planeamiento del abastecimiento de pallet y chapadur a las distintas plantas de la empresa.',
   },
 
   {
@@ -179,16 +179,16 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2022',
     title: 'Diplomatura web full stack con React JS <span> UTN </span>',
-    desc: 'Di mis primeros pasos en el mundo de la programación realizando la Diplomatura mencionada en el Centro de e-Learning de la UTN; la misma culminó con la entrega de un proyecto final el cual forma parte de los proyectos de mi portfolio como programador. Posterior a la culminación de la Diplomatura continué y continúo estudiando de forma autodidacta para mejorar y ampliar mis habilidades.',
+    desc: 'Di mis primeros pasos en el mundo de la programación realizando la Diplomatura mencionada en el Centro de e-Learning de la UTN; la misma culminó con la entrega de un proyecto final el cual forma parte de los proyectos de mi portfolio como programador. Posterior a la culminación de la Diplomatura continué y continúo estudiando de forma autodidacta para mejorar y ampliar mis habilidades.<br><br>',
   },
 
   {
     id: 5,
     category: 'education',
     icon: <FaGraduationCap />,
-    year: '2006 - 2013',
+    year: '2006 - 2010',
     title: 'Ingeniería Industrial <span> UTN </span>',
-    desc: 'Cursé la carrera de Ingeniería Industrial en la Universidad Tecnológica Nacional regional Buenos Aires (UTN); llegué a realizar hasta el tercer año de la carrera, con muy buen promedio, pero decidí discontinuar dichos estudios en aquel momento. No he sentido hasta el momento deseos de retomar la carrera, pero lo considero algo pendiente.',
+    desc: 'Cursé la carrera de Ingeniería Industrial en la Universidad Tecnológica Nacional regional Buenos Aires (UTN); llegué a realizar hasta el tercer año de la carrera, con muy buen promedio, pero decidí discontinuar dichos estudios en aquel momento. No he sentido hasta el momento deseos de retomar la carrera, pero lo considero algo pendiente.<br><br>',
   },
 
   {

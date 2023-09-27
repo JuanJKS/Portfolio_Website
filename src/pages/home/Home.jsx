@@ -18,7 +18,15 @@ const Home = () => {
                     </div>
 
                     <p className='home__description'>
-                    Soy un estudiante de programación, orientado en desarrollo full stack, con mucho entusiasmo por aprender cosas nuevas todo el tiempo y poder incorporarlo a mis proyectos personales. Me encuentro en la búsqueda de mi primer trabajo como programador, con energía y ganas de poder comenzar a aplicar en un día a día laboral todo lo que en este tiempo he aprendido y sigo aprendiendo.
+                        Con más de 10 años de experiencia en logística e IT, he desarrollado fuertes 
+                        habilidades de comunicación y negociación, liderando proyectos centrados en el 
+                        cliente. Mi objetivo es aplicar estas habilidades en una nueva etapa a la cual apunto: 
+                        convertirme en un Full Stack Web Developer. A pesar de que no tengo experiencia 
+                        formal en este campo, mi mentalidad de resolución de problemas y mi entusiasmo 
+                        por el aprendizaje continuo me impulsan a buscar soluciones creativas, prolijas 
+                        y eficientes en el desarrollo web. Mi objetivo es aportar valor a mi equipo de 
+                        desarrollo, aprovechando mi mentalidad resolutiva para abordar desafíos complejos 
+                        y crear soluciones.
                     </p>
 
                     <Link to='/about' className='button'>
