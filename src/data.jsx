@@ -152,7 +152,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: '2020 - PRESENTE',
     title: 'Profesor Particular <span> Independiente </span>',
-    desc: 'Llevo aproximadamente 8 años dando clases de matemática y física de forma independiente. En todos estos años he intentado e intento transmitir de la mejor manera posible todo lo que sé al respecto de las materias mencionadas, adaptándome a las necesidades y tiempos de cada persona. Me encanta enseñar y también disfruto mucho de poder aportar mi grano de arena para el cumplimiento de objetivos de aquellas personas que me contactan en busca de ayuda.',
+    desc: 'Llevo aproximadamente 8 años dando clases de matemática y física de forma independiente, de los cuales los últimos 3 han sido abocado 100% a esta función. En todos estos años he intentado e intento transmitir de la mejor manera posible todo lo que sé al respecto de las materias mencionadas, adaptándome a las necesidades y tiempos de cada persona. Me encanta enseñar y también disfruto mucho de poder aportar mi grano de arena para el cumplimiento de objetivos de aquellas personas que me contactan en busca de ayuda.',
   },
 
   {
