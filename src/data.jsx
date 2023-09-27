@@ -188,7 +188,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2006 - 2010',
     title: 'Ingeniería Industrial <span> UTN </span>',
-    desc: 'Cursé la carrera de Ingeniería Industrial en la Universidad Tecnológica Nacional regional Buenos Aires (UTN); llegué a realizar hasta el tercer año de la carrera, con muy buen promedio, pero decidí discontinuar dichos estudios en aquel momento. No he sentido hasta el momento deseos de retomar la carrera, pero lo considero algo pendiente.<br><br><br>',
+    desc: 'Cursé la carrera de Ingeniería Industrial en la Universidad Tecnológica Nacional regional Buenos Aires (UTN); llegué a realizar hasta el tercer año de la carrera, con muy buen promedio, pero decidí discontinuar dichos estudios en aquel momento. No he sentido hasta el momento deseos de retomar la carrera, pero lo considero algo pendiente.<br><br>',
   },
 
   {
